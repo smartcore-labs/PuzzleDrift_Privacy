@@ -25,8 +25,10 @@ To provide all gameplay features, we request the following permissions:
 ### IV. Children's Privacy
 Puzzle Drift is designed for a general audience. We do not knowingly collect personal information from children under 13.
 
-### V. Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
-smartscanai.contact@gmail.com
+### V. Data Deletion
+We provide a way for you to request the deletion of your account and leaderboard data. If you would like to have your leaderboard records, display name, and associated data removed from our systems, please contact us at `smartscanai.contact@gmail.com`. We will process your deletion request within 48-72 hours.
+
+### VI. Contact Us
+If you have any questions about this Privacy Policy, please contact us at: smartscanai.contact@gmail.com
 
 ---
